@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "UHGJnJ4wrdMqimTN1U1DiEesi74=",
+			"path": "github.com/webguerilla/ftps",
+			"revision": "166035d4757922d70bb9747556298c802b410f35",
+			"revisionTime": "2014-08-12T21:16:33Z"
+		},
+		{
+			"checksumSHA1": "g0dCaMi+PgnYd68lQ4QqOCrH694=",
+			"path": "github.com/yamamoto-febc/libsacloud/api",
+			"revision": "8497b544453a95128a4ea88ce6e4bec038b28f91",
+			"revisionTime": "2016-08-19T05:46:25Z"
+		},
+		{
+			"checksumSHA1": "KuH7tRSm/a/59P1SsEHGuF3v5VA=",
+			"path": "github.com/yamamoto-febc/libsacloud/sacloud",
+			"revision": "8497b544453a95128a4ea88ce6e4bec038b28f91",
+			"revisionTime": "2016-08-19T05:46:25Z"
+		}
+	],
+	"rootPath": "github.com/yamamoto-febc/sacloud-upload-image"
+}

@@ -1,0 +1,4 @@
+*.test
+pkg
+bin
+sacloud-upload-image
